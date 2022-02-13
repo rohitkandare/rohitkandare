@@ -2,12 +2,6 @@
 
 #### I'm a Full-Stack Developer.
 
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
-
 ##### BIO
 
 - 🏢 I'm currently working at **Medicare Portugal**
@@ -16,3 +10,5 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **React.js**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/rohit_kandare](https://twitter.com/rohit_kandare)
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
