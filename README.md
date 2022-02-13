@@ -9,7 +9,7 @@
 - 🌍 I'm mostly active within the **React.js**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **React.js**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/rohit_kandare](https://twitter.com/rohit_kandare)
+- 📫 Reach me: [instagram.com/rohit__kandare/](https://www.instagram.com/rohit__kandare/)
 
 <h2 align="center">🤝 Support</h2>
 
